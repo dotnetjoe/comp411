@@ -1,6 +1,6 @@
 # comp411
 
-The labs for this class can be found below.
+The labs for comp411 can be found below.
 
 ## Labs
 
